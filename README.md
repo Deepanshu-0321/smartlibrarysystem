@@ -19,6 +19,32 @@ A command-line interface (CLI) Library Management System developed using pure Py
 1. Clone or download this repository.
 2. Open your terminal or command prompt in the project directory.
 3. Run the application with:
+## Testing Instructions
+
+Follow these steps to test the Smart Library Management System:
+
+1. Make sure Python is installed on your computer.
+
+2. Download or clone the project from GitHub.
+
+3. Open the project folder in a terminal.
+
+4. Run the program using the command:
+
+   `python main.py`
+
+5. Test the following features:
+
+   * **Book Management:** Add a new book and check whether its details are displayed correctly.
+   * **Member Management:** Add a new library member and verify their details.
+   * **Search Books:** Search for a book by its name or other supported details.
+   * **Book Circulation:** Issue a book to a member and test the book return process.
+   * **Display Records:** Check whether book and member records are displayed correctly.
+   * **Data Handling:** Verify that the program handles invalid inputs appropriately.
+
+6. Check that each feature works as expected and that the program displays appropriate messages for successful operations and errors.
+
+**Expected Result:** The program should perform the library operations correctly, display the appropriate records and messages, and handle invalid inputs without unexpected errors.
 
 ```bash
 python main.py
