@@ -13,9 +13,15 @@ A command-line interface (CLI) Library Management System developed using pure Py
 ## Prerequisites
 - Python 3.x installed on your system.
 - No external `pip` packages required.
+- 
+## Technologies and Tools Used
+* **Python 3:** Used to write the program and handle the main library operations.
+* **GitHub:** Used to store the project files online and keep track of project updates.
+* **Visual Studio Code:** Used to write and edit the Python files.
+* **Command-Line Interface (CLI):** Used to run the program and interact with the library system through the terminal.
+* **Python Standard Library:** Used for the basic functions needed to run the program.
 
 ## How to Run
-
 1. Clone or download this repository.
 2. Open your terminal or command prompt in the project directory.
 3. Run the application with:
